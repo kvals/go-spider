@@ -1,2 +1,2 @@
 # go-spider
-personal file for net spider writen by golang
+personal file for net spider writen with golang
